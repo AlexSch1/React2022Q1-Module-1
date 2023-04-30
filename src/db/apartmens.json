@@ -1,0 +1,622 @@
+[
+  {
+    "_id": "644bca20e98b919910319a81",
+    "index": 0,
+    "isPremium": true,
+    "price": "$2,222.08",
+    "picture": "http://placehold.it/32x32",
+    "icon": "🏠",
+    "type": "Flat",
+    "title": "sunt",
+    "rooms": {
+      "bedrooms": 5,
+      "bathrooms": 3
+    },
+    "agent": {
+      "name": "Anne Berg",
+      "email": "anneberg@assurity.com",
+      "phone": "+1 (813) 449-3869"
+    },
+    "address": "796 Herzl Street, Clara, Alaska, 1062",
+    "description": "culpa reprehenderit dolore et do sint reprehenderit",
+    "built": "2015-10-07T05:12:20 -03:00",
+    "tags": [
+      "laboris",
+      "ut",
+      "dolore",
+      "irure",
+      "in",
+      "amet",
+      "duis"
+    ]
+  },
+  {
+    "_id": "644bca207d97deeff30ce055",
+    "index": 1,
+    "isPremium": true,
+    "price": "$3,922.68",
+    "picture": "http://placehold.it/32x32",
+    "icon": "🏚️",
+    "type": "House",
+    "title": "nostrud irure veniam",
+    "rooms": {
+      "bedrooms": 5,
+      "bathrooms": 1
+    },
+    "agent": {
+      "name": "Nona Cummings",
+      "email": "nonacummings@assurity.com",
+      "phone": "+1 (893) 533-2115"
+    },
+    "address": "129 Highland Place, Morgandale, Arizona, 9463",
+    "description": "ut id minim do sint tempor eiusmod",
+    "built": "2017-03-03T07:03:28 -03:00",
+    "tags": [
+      "nostrud",
+      "qui",
+      "Lorem",
+      "consectetur",
+      "veniam",
+      "eiusmod",
+      "ex"
+    ]
+  },
+  {
+    "_id": "644bca201a01d14e1a2e7cbb",
+    "index": 2,
+    "isPremium": true,
+    "price": "$1,543.29",
+    "picture": "http://placehold.it/32x32",
+    "icon": "🕌",
+    "type": "House",
+    "title": "et",
+    "rooms": {
+      "bedrooms": 3,
+      "bathrooms": 1
+    },
+    "agent": {
+      "name": "Jane Morrison",
+      "email": "janemorrison@assurity.com",
+      "phone": "+1 (979) 473-2709"
+    },
+    "address": "704 Perry Terrace, Centerville, Ohio, 8670",
+    "description": "qui commodo nostrud veniam ut aliquip et",
+    "built": "2016-07-23T02:12:19 -03:00",
+    "tags": [
+      "amet",
+      "eu",
+      "esse",
+      "nisi",
+      "laborum",
+      "ut",
+      "cupidatat"
+    ]
+  },
+  {
+    "_id": "644bca20004eac816f4a6994",
+    "index": 3,
+    "isPremium": false,
+    "price": "$3,654.22",
+    "picture": "http://placehold.it/32x32",
+    "icon": "🏘️ ",
+    "type": "Detached House",
+    "title": "commodo pariatur labore",
+    "rooms": {
+      "bedrooms": 3,
+      "bathrooms": 3
+    },
+    "agent": {
+      "name": "Gutierrez Ashley",
+      "email": "gutierrezashley@assurity.com",
+      "phone": "+1 (841) 574-2574"
+    },
+    "address": "717 Hampton Avenue, Herbster, Louisiana, 4539",
+    "description": "aliquip aliquip Lorem anim commodo adipisicing non",
+    "built": "2021-03-23T09:56:49 -03:00",
+    "tags": [
+      "nostrud",
+      "sit",
+      "deserunt",
+      "esse",
+      "veniam",
+      "ad",
+      "dolor"
+    ]
+  },
+  {
+    "_id": "644bca207b31d226c5962c18",
+    "index": 4,
+    "isPremium": false,
+    "price": "$2,383.46",
+    "picture": "http://placehold.it/32x32",
+    "icon": "🏠",
+    "type": "Flat",
+    "title": "non do irure",
+    "rooms": {
+      "bedrooms": 5,
+      "bathrooms": 1
+    },
+    "agent": {
+      "name": "Lowe Joyner",
+      "email": "lowejoyner@assurity.com",
+      "phone": "+1 (934) 566-3697"
+    },
+    "address": "975 Prospect Avenue, Lodoga, Palau, 8545",
+    "description": "eiusmod magna nostrud mollit laborum quis commodo",
+    "built": "2020-05-18T01:53:58 -03:00",
+    "tags": [
+      "enim",
+      "culpa",
+      "aliqua",
+      "fugiat",
+      "aliqua",
+      "sint",
+      "quis"
+    ]
+  },
+  {
+    "_id": "644bca20f924ae68015dcdd5",
+    "index": 5,
+    "isPremium": true,
+    "price": "$3,517.26",
+    "picture": "http://placehold.it/32x32",
+    "icon": "🛕",
+    "type": "Flat",
+    "title": "cupidatat",
+    "rooms": {
+      "bedrooms": 3,
+      "bathrooms": 1
+    },
+    "agent": {
+      "name": "Katelyn Wade",
+      "email": "katelynwade@assurity.com",
+      "phone": "+1 (892) 462-2447"
+    },
+    "address": "404 Vernon Avenue, Sussex, Virgin Islands, 5180",
+    "description": "occaecat aliquip irure ullamco ipsum laboris laborum",
+    "built": "2016-04-19T09:54:38 -03:00",
+    "tags": [
+      "ad",
+      "est",
+      "Lorem",
+      "minim",
+      "aliquip",
+      "consectetur",
+      "anim"
+    ]
+  },
+  {
+    "_id": "644bca2010b6f9154a8d4db9",
+    "index": 6,
+    "isPremium": false,
+    "price": "$3,456.97",
+    "picture": "http://placehold.it/32x32",
+    "icon": "🏡 ",
+    "type": "Flat",
+    "title": "et",
+    "rooms": {
+      "bedrooms": 3,
+      "bathrooms": 3
+    },
+    "agent": {
+      "name": "Maritza Spence",
+      "email": "maritzaspence@assurity.com",
+      "phone": "+1 (887) 510-2756"
+    },
+    "address": "994 Duffield Street, Rivers, Michigan, 283",
+    "description": "dolore nulla commodo voluptate ut et dolore",
+    "built": "2022-01-18T05:53:17 -03:00",
+    "tags": [
+      "sint",
+      "magna",
+      "reprehenderit",
+      "quis",
+      "ad",
+      "minim",
+      "ipsum"
+    ]
+  },
+  {
+    "_id": "644bca20e5f76c3860c235da",
+    "index": 7,
+    "isPremium": false,
+    "price": "$3,937.14",
+    "picture": "http://placehold.it/32x32",
+    "icon": "🛖 ",
+    "type": "Detached House",
+    "title": "nulla",
+    "rooms": {
+      "bedrooms": 5,
+      "bathrooms": 1
+    },
+    "agent": {
+      "name": "Julie Hampton",
+      "email": "juliehampton@assurity.com",
+      "phone": "+1 (851) 539-3576"
+    },
+    "address": "640 Butler Place, Weedville, Wisconsin, 2116",
+    "description": "velit anim excepteur culpa eiusmod magna mollit",
+    "built": "2016-10-27T06:53:06 -03:00",
+    "tags": [
+      "culpa",
+      "voluptate",
+      "officia",
+      "minim",
+      "qui",
+      "ullamco",
+      "cillum"
+    ]
+  },
+  {
+    "_id": "644bca2077bef93b2909144f",
+    "index": 8,
+    "isPremium": false,
+    "price": "$3,846.44",
+    "picture": "http://placehold.it/32x32",
+    "icon": "🏘️ ",
+    "type": "House",
+    "title": "labore",
+    "rooms": {
+      "bedrooms": 3,
+      "bathrooms": 3
+    },
+    "agent": {
+      "name": "Joanne Crane",
+      "email": "joannecrane@assurity.com",
+      "phone": "+1 (851) 418-3130"
+    },
+    "address": "860 Woodhull Street, Cucumber, Illinois, 7397",
+    "description": "cillum consectetur laboris mollit laboris nulla laborum",
+    "built": "2019-03-31T03:28:27 -03:00",
+    "tags": [
+      "aliquip",
+      "tempor",
+      "proident",
+      "laborum",
+      "officia",
+      "ut",
+      "in"
+    ]
+  },
+  {
+    "_id": "644bca2077fb20b5f7193278",
+    "index": 9,
+    "isPremium": true,
+    "price": "$2,431.42",
+    "picture": "http://placehold.it/32x32",
+    "icon": "🛕",
+    "type": "Detached House",
+    "title": "anim",
+    "rooms": {
+      "bedrooms": 5,
+      "bathrooms": 1
+    },
+    "agent": {
+      "name": "Duncan Chang",
+      "email": "duncanchang@assurity.com",
+      "phone": "+1 (941) 529-3583"
+    },
+    "address": "270 Mill Road, Westmoreland, Delaware, 8376",
+    "description": "consectetur officia irure minim tempor consectetur et",
+    "built": "2023-02-25T06:34:39 -03:00",
+    "tags": [
+      "incididunt",
+      "enim",
+      "adipisicing",
+      "commodo",
+      "duis",
+      "duis",
+      "proident"
+    ]
+  },
+  {
+    "_id": "644bca209514c8e9f49dea14",
+    "index": 10,
+    "isPremium": true,
+    "price": "$1,791.68",
+    "picture": "http://placehold.it/32x32",
+    "icon": "🏚️",
+    "type": "Detached House",
+    "title": "quis non do",
+    "rooms": {
+      "bedrooms": 5,
+      "bathrooms": 3
+    },
+    "agent": {
+      "name": "Baird Goodwin",
+      "email": "bairdgoodwin@assurity.com",
+      "phone": "+1 (885) 429-2213"
+    },
+    "address": "201 Underhill Avenue, Noblestown, Texas, 8445",
+    "description": "est exercitation cupidatat amet et mollit anim",
+    "built": "2016-06-23T02:30:28 -03:00",
+    "tags": [
+      "excepteur",
+      "quis",
+      "dolor",
+      "sit",
+      "anim",
+      "commodo",
+      "dolor"
+    ]
+  },
+  {
+    "_id": "644bca2084bdce3c8c31c6f6",
+    "index": 11,
+    "isPremium": true,
+    "price": "$3,173.18",
+    "picture": "http://placehold.it/32x32",
+    "icon": "🏠",
+    "type": "House",
+    "title": "commodo",
+    "rooms": {
+      "bedrooms": 5,
+      "bathrooms": 3
+    },
+    "agent": {
+      "name": "Juarez Delgado",
+      "email": "juarezdelgado@assurity.com",
+      "phone": "+1 (892) 596-2341"
+    },
+    "address": "215 Wolf Place, Magnolia, California, 3496",
+    "description": "cupidatat nostrud dolore minim reprehenderit ut sunt",
+    "built": "2018-03-21T02:50:01 -03:00",
+    "tags": [
+      "nostrud",
+      "mollit",
+      "commodo",
+      "labore",
+      "reprehenderit",
+      "tempor",
+      "velit"
+    ]
+  },
+  {
+    "_id": "644bca206d7e5d76d6df5a5e",
+    "index": 12,
+    "isPremium": true,
+    "price": "$1,151.83",
+    "picture": "http://placehold.it/32x32",
+    "icon": "🏠",
+    "type": "House",
+    "title": "sint",
+    "rooms": {
+      "bedrooms": 5,
+      "bathrooms": 1
+    },
+    "agent": {
+      "name": "Cathy Pratt",
+      "email": "cathypratt@assurity.com",
+      "phone": "+1 (836) 472-3256"
+    },
+    "address": "523 Osborn Street, Vivian, North Dakota, 4236",
+    "description": "aliquip minim ut velit magna aute non",
+    "built": "2019-03-29T11:29:31 -03:00",
+    "tags": [
+      "est",
+      "proident",
+      "ea",
+      "duis",
+      "magna",
+      "dolor",
+      "quis"
+    ]
+  },
+  {
+    "_id": "644bca208af6325c50de063a",
+    "index": 13,
+    "isPremium": false,
+    "price": "$1,666.40",
+    "picture": "http://placehold.it/32x32",
+    "icon": "🏠",
+    "type": "House",
+    "title": "ex duis ipsum",
+    "rooms": {
+      "bedrooms": 3,
+      "bathrooms": 1
+    },
+    "agent": {
+      "name": "Buckley Wall",
+      "email": "buckleywall@assurity.com",
+      "phone": "+1 (927) 404-3878"
+    },
+    "address": "454 Aitken Place, Greenock, Missouri, 521",
+    "description": "eu esse anim proident aute irure occaecat",
+    "built": "2014-01-09T11:49:54 -03:00",
+    "tags": [
+      "cupidatat",
+      "cupidatat",
+      "excepteur",
+      "Lorem",
+      "irure",
+      "culpa",
+      "commodo"
+    ]
+  },
+  {
+    "_id": "644bca2044389446e794ff68",
+    "index": 14,
+    "isPremium": false,
+    "price": "$3,043.38",
+    "picture": "http://placehold.it/32x32",
+    "icon": "🛕",
+    "type": "Flat",
+    "title": "cillum",
+    "rooms": {
+      "bedrooms": 3,
+      "bathrooms": 1
+    },
+    "agent": {
+      "name": "Carey Glover",
+      "email": "careyglover@assurity.com",
+      "phone": "+1 (826) 552-2967"
+    },
+    "address": "509 Hornell Loop, Herald, Oklahoma, 6374",
+    "description": "adipisicing incididunt est qui dolor mollit duis",
+    "built": "2017-08-16T04:13:59 -03:00",
+    "tags": [
+      "magna",
+      "excepteur",
+      "laboris",
+      "adipisicing",
+      "exercitation",
+      "duis",
+      "eu"
+    ]
+  },
+  {
+    "_id": "644bca209ad9753dd1298b6c",
+    "index": 15,
+    "isPremium": false,
+    "price": "$3,416.14",
+    "picture": "http://placehold.it/32x32",
+    "icon": "🏡 ",
+    "type": "Flat",
+    "title": "sunt commodo nostrud",
+    "rooms": {
+      "bedrooms": 5,
+      "bathrooms": 1
+    },
+    "agent": {
+      "name": "Erickson Palmer",
+      "email": "ericksonpalmer@assurity.com",
+      "phone": "+1 (822) 600-2323"
+    },
+    "address": "367 Thames Street, Emerald, New Jersey, 7324",
+    "description": "irure in esse culpa incididunt aliquip laboris",
+    "built": "2020-06-18T11:09:38 -03:00",
+    "tags": [
+      "ipsum",
+      "ex",
+      "sunt",
+      "proident",
+      "quis",
+      "culpa",
+      "reprehenderit"
+    ]
+  },
+  {
+    "_id": "644bca20e531c0af7eafc141",
+    "index": 16,
+    "isPremium": false,
+    "price": "$2,344.35",
+    "picture": "http://placehold.it/32x32",
+    "icon": "🏠",
+    "type": "House",
+    "title": "ex",
+    "rooms": {
+      "bedrooms": 3,
+      "bathrooms": 3
+    },
+    "agent": {
+      "name": "Elise Dotson",
+      "email": "elisedotson@assurity.com",
+      "phone": "+1 (907) 527-2368"
+    },
+    "address": "409 Miller Place, Defiance, Nevada, 5912",
+    "description": "ex ea est culpa sit Lorem proident",
+    "built": "2016-03-10T12:38:07 -03:00",
+    "tags": [
+      "dolore",
+      "quis",
+      "nisi",
+      "duis",
+      "ad",
+      "non",
+      "est"
+    ]
+  },
+  {
+    "_id": "644bca20ec42dc68c9acac00",
+    "index": 17,
+    "isPremium": false,
+    "price": "$2,201.40",
+    "picture": "http://placehold.it/32x32",
+    "icon": "🏘️ ",
+    "type": "Detached House",
+    "title": "anim veniam ex",
+    "rooms": {
+      "bedrooms": 3,
+      "bathrooms": 3
+    },
+    "agent": {
+      "name": "Lindsay Gray",
+      "email": "lindsaygray@assurity.com",
+      "phone": "+1 (931) 594-3319"
+    },
+    "address": "756 Cypress Court, Roy, Idaho, 2107",
+    "description": "est ad ex elit elit esse consectetur",
+    "built": "2015-02-25T11:00:27 -03:00",
+    "tags": [
+      "velit",
+      "sunt",
+      "esse",
+      "tempor",
+      "deserunt",
+      "duis",
+      "eu"
+    ]
+  },
+  {
+    "_id": "644bca208325c655a4d8fac1",
+    "index": 18,
+    "isPremium": true,
+    "price": "$1,453.95",
+    "picture": "http://placehold.it/32x32",
+    "icon": "🏠",
+    "type": "Detached House",
+    "title": "veniam commodo est",
+    "rooms": {
+      "bedrooms": 3,
+      "bathrooms": 3
+    },
+    "agent": {
+      "name": "Katheryn Benjamin",
+      "email": "katherynbenjamin@assurity.com",
+      "phone": "+1 (995) 551-2136"
+    },
+    "address": "809 Ridgewood Place, Hilltop, Marshall Islands, 410",
+    "description": "sunt enim enim ullamco officia est reprehenderit",
+    "built": "2020-11-08T09:25:20 -03:00",
+    "tags": [
+      "reprehenderit",
+      "reprehenderit",
+      "ut",
+      "duis",
+      "irure",
+      "anim",
+      "est"
+    ]
+  },
+  {
+    "_id": "644bca20b4cbb3f546066019",
+    "index": 19,
+    "isPremium": false,
+    "price": "$3,791.07",
+    "picture": "http://placehold.it/32x32",
+    "icon": "⛺",
+    "type": "Flat",
+    "title": "sint duis eu",
+    "rooms": {
+      "bedrooms": 5,
+      "bathrooms": 3
+    },
+    "agent": {
+      "name": "Isabella Talley",
+      "email": "isabellatalley@assurity.com",
+      "phone": "+1 (896) 408-3558"
+    },
+    "address": "900 Luquer Street, Chapin, South Dakota, 2367",
+    "description": "adipisicing deserunt cillum labore reprehenderit incididunt fugiat",
+    "built": "2020-03-14T02:15:59 -03:00",
+    "tags": [
+      "et",
+      "do",
+      "do",
+      "est",
+      "quis",
+      "nostrud",
+      "voluptate"
+    ]
+  }
+]
