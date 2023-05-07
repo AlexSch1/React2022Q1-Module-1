@@ -1,0 +1,115 @@
+.apartments {
+  padding-top: 20px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+}
+.apartment {
+  width: 200px;
+  position: relative;
+  box-shadow: 0 20px 25px -5px rgba(0,0,0,.1), 0 10px 10px -5px rgba(0,0,0,.04);
+  transition: all ease-out 0.2s;
+  margin-bottom: 20px;
+}
+
+.apartment__status {
+  position: absolute;
+  right: 1rem;
+  top: 1rem;
+  user-select: none;
+}
+
+.apartment__picture {
+  user-select: none;
+  padding: 1rem;
+  height: 5rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 3rem;
+  background: #3A51FB;
+  background: linear-gradient(135deg, #3A51FB, #EC8BA3);
+}
+
+.apartment__info {
+  padding: 0.5rem;
+}
+.info__title{
+  letter-spacing: .025em;
+  text-transform: uppercase;
+  font-size: .75rem;
+  color: #4a5568;
+  font-weight: 700;
+}
+.info__price{
+  font-size: 1.275rem;
+  color: #1a202c;
+}
+
+.info__address{
+  color: #4a5568;
+}
+
+.apartment__rooms {
+  display: flex;
+  border-top: 1px #e2e8f0 solid;
+}
+
+
+.rooms {
+  color: #4a5568;
+  padding: 0.5rem;
+}
+.rooms__item {
+  flex: 1 1 0;
+  align-items: center;
+  display: inline-flex;
+}
+.rooms__icon {
+  display: inline-block;
+  height: 1.5rem;
+  width: 1.5rem;
+}
+.rooms__text {}
+.rooms__count {
+  color: #1a202c;
+  font-weight: 700;
+}
+
+.apartment__realtor {}
+
+.realtor {
+  padding: 0.5rem;
+  border-top: 1px #e2e8f0 solid;
+  background-color: #f7fafc;
+}
+.realtor__title {
+  letter-spacing: .025em;
+  text-transform: uppercase;
+  font-size: .75rem;
+  color: #718096;
+  font-weight: 700;
+  user-select: none;
+
+}
+.realtor__person-info {
+  align-items: center;
+  display: flex;
+}
+.realtor__icon {
+  width: 2.5rem;
+  margin-right: 0.5rem;
+  height: 2.5rem;
+  font-size: 1.5rem;
+  text-align: center;
+  user-select: none;
+
+}
+.realtor__name {
+  color: #1a202c;
+  font-weight: 700;
+}
+.realtor__phone {
+  font-size: .875rem;
+  color: #4a5568;
+}

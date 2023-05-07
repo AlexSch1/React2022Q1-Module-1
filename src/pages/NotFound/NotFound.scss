@@ -8,24 +8,6 @@
   font-size: 100%;
   line-height: 1.5;
 
-  &__button {
-    font-weight: 300;
-    color: black;
-    font-size: 1.2em;
-    text-decoration: none;
-    border: 1px solid black;
-    padding: 0.5em;
-    border-radius: 3px;
-    position: relative;
-    transition: all 0.3s linear;
-    margin-top: 75px;
-
-    &:hover {
-      background-color: #007aff;
-      color: #fff;
-    }
-  }
-
   &__text {
     font-size: 2em;
     text-align: center;

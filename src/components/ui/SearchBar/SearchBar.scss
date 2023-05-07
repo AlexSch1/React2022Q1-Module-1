@@ -1,0 +1,16 @@
+.search-bar {
+    background-color: #fff;
+    padding: 2.125em 1.25em;
+    border-radius: 10px;
+    box-shadow: 1px 10px 85px -25px #bbc0ea;
+    max-width: 500px;
+    margin: 0 auto;
+    &__inner {
+        display: flex;
+        justify-content: center;
+
+        Input {
+            flex: 1;
+        }
+    }
+}
